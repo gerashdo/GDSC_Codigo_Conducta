@@ -35,4 +35,4 @@ Dependiendo de las acciones se aplicarán las siguientes sanciones:
 
 Si haz sentido agresión o comportamiento no tolerado por el código de conducta puedes comunicarte con algun miembro del equipo o al correo de la comunidad **gdscuaz@gmail.com**. Si crees que faltan reglas o aspectos de comportamiento por tomar en cuenta puedes contribuir a mejorar el código de conducta creando tu pull request.
 
-##### Finalmene esperamos que la pases muy bien y gracias por ser parte de la comunidad ❤
+#### Finalmene esperamos que la pases muy bien y gracias por ser parte de la comunidad ❤
